@@ -20,6 +20,6 @@ class Child extends Human {
 }
 
 const riri = new Child('Riri', 'Duck');
-if(riri.child) {
+if(riri.child === true) {
     riri.play();
 }
