@@ -3,8 +3,8 @@ console.log('bonjour');
 const name = 'Riri';
 console.log(name);
 
-let time = 2;
-time += 10;
+let time = 10;
+time += 2;
 console.log(time);
 
 let done = false;
